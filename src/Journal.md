@@ -6,3 +6,6 @@ Pretty straight forward and follows this week's lessons. I got hung up with esse
 
 Phase 3
 This step took a bit more effort. More logic needed to follow the flow. By using this() instead of hard coding each instance, you only need to change the one usage and further uses will reflect the change.
+
+Phase 4
+As I follow the phases I like to test and modify things to see if I have a good understanding of what it's doing. So the test at the end is often just seeing the same things I tested as I went.
