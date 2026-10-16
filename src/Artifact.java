@@ -1,5 +1,5 @@
 public class Artifact {
-    private String material;
+    protected String material;
 
     public Artifact(String material) {
         this.material = material;

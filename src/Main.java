@@ -2,4 +2,5 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
     Artifact art1 = new Artifact("Stone");
+    DivineWeapon divWep1 = new DivineWeapon("Storm");
 }
