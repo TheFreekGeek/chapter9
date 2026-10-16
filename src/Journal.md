@@ -1,0 +1,2 @@
+Phase 1
+This all came together easily. Well covered in class material this week. Use a constructor because it protects access to everything and all info set from the start. Simplifies code and encapsulates better. Once there is a constructor in place you have no choice but to use the constructor.
