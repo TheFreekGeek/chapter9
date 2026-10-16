@@ -3,4 +3,5 @@
 void main() {
     Artifact art1 = new Artifact("Stone");
     DivineWeapon divWep1 = new DivineWeapon("Storm");
+    DivineWeapon divWep2 = new DivineWeapon();
 }
